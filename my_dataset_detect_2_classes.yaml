@@ -1,0 +1,12 @@
+names:
+  0: lanyard
+  1: card
+   
+
+path:
+train: 
+-  /content/drive/MyDrive/Myproject/dataset_1/train
+ 
+
+val:
+-   /content/drive/MyDrive/Myproject/dataset_1/val
